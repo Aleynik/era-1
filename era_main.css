@@ -1,0 +1,45 @@
+
+
+/*--------------------------------------------*/
+.body {
+	background: #defffd;
+}
+.header{
+	margin: 10px 0 0 0;
+}
+#head{
+}
+.head_elements{
+	background: #79dbfc;
+}
+.text-h1{
+	font-size: 60px;
+	margin: 0 0 0 30px;
+}
+.container{
+}
+.main{
+	margin: 20px 0 0 0;
+}
+.row{
+}
+.row_css{
+}
+.col-md-6{
+}
+.sputnik_data{
+}
+#sputnik_data{
+}
+#pressure{
+}
+#height{
+}
+#speed{
+}
+#flight_status{
+}
+
+/*float (обтекание)*/
+
+мм
